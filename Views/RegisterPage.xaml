@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:buttons="clr-namespace:Syncfusion.Maui.Buttons;assembly=Syncfusion.Maui.Buttons"
+             xmlns:inputLayout="clr-namespace:Syncfusion.Maui.Core;assembly=Syncfusion.Maui.Core"
+             x:Class="SuperApp.Views.RegisterPage"
+             Title="RegisterPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="LinkLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#5B67F1" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="13" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <Grid Padding="24" RowDefinitions="*,Auto,*" VerticalOptions="FillAndExpand">
+
+            <!-- ===================== CARD REGISTER ===================== -->
+            <Border Grid.Row="1"
+                    StrokeShape="RoundRectangle 24"
+                    Stroke="Transparent"
+                    Padding="28,32"
+                    BackgroundColor="White">
+                <Border.Shadow>
+                    <Shadow Brush="#1E1E2D"
+                            Offset="0,6"
+                            Radius="20"
+                            Opacity="0.12" />
+                </Border.Shadow>
+
+                <VerticalStackLayout Spacing="0">
+
+                    <!-- Logo / Icon -->
+                    <Border WidthRequest="72"
+                            HeightRequest="72"
+                            StrokeShape="RoundRectangle 36"
+                            Stroke="Transparent"
+                            Padding="0"
+                            HorizontalOptions="Center"
+                            BackgroundColor="#5B67F1">
+                        <Label Text="&#xf234;"
+                               FontFamily="MaterialIcons"
+                               FontSize="32"
+                               TextColor="White"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center" />
+                    </Border>
+
+                    <Label Text="Buat Akun Baru"
+                           FontSize="24"
+                           FontAttributes="Bold"
+                           TextColor="#1E1E2D"
+                           HorizontalOptions="Center"
+                           Margin="0,16,0,2" />
+
+                    <Label Text="Isi data di bawah untuk mendaftar"
+                           FontSize="13"
+                           TextColor="#8A8FA3"
+                           HorizontalOptions="Center"
+                           Margin="0,0,0,24" />
+
+                    <!-- ===================== EMAIL ===================== -->
+                    <inputLayout:SfTextInputLayout Hint="Email"
+                                                ContainerType="Outlined"
+                                                LeadingViewPosition="Inside"
+                                                InputViewPadding="8,0,0,0"
+                                                Margin="0,0,0,16">
+                        <inputLayout:SfTextInputLayout.LeadingView>
+                            <Label Text="&#xe0be;"
+                                   FontFamily="MaterialIcons"
+                                   FontSize="18"
+                                   TextColor="#8A8FA3"
+                                   HeightRequest="20"
+                                   WidthRequest="20"
+                                   HorizontalTextAlignment="Center"
+                                   VerticalTextAlignment="Center"
+                                   VerticalOptions="Center"
+                                   Margin="8,0,0,0" />
+                        </inputLayout:SfTextInputLayout.LeadingView>
+                        <Entry x:Name="EmailEntry"
+                               Keyboard="Email"
+                               Placeholder="contoh@email.com" />
+                    </inputLayout:SfTextInputLayout>
+
+                    <!-- ===================== PASSWORD ===================== -->
+                    <inputLayout:SfTextInputLayout Hint="Password"
+                                                ContainerType="Outlined"
+                                                LeadingViewPosition="Inside"
+                                                TrailingViewPosition="Inside"
+                                                InputViewPadding="8,0,0,0"
+                                                Margin="0,0,0,16">
+                        <inputLayout:SfTextInputLayout.LeadingView>
+                            <Label Text="&#xe897;"
+                                   FontFamily="MaterialIcons"
+                                   FontSize="18"
+                                   TextColor="#8A8FA3"
+                                   HeightRequest="20"
+                                   WidthRequest="20"
+                                   HorizontalTextAlignment="Center"
+                                   VerticalTextAlignment="Center"
+                                   VerticalOptions="Center"
+                                   Margin="8,0,0,0" />
+                        </inputLayout:SfTextInputLayout.LeadingView>
+                        <inputLayout:SfTextInputLayout.TrailingView>
+                            <ImageButton x:Name="TogglePasswordButton"
+                                         Source="eye_icon.png"
+                                         BackgroundColor="Transparent"
+                                         Padding="10"
+                                         WidthRequest="24"
+                                         HeightRequest="24"
+                                         Margin="0,0,8,0"
+                                         Clicked="TogglePasswordButton_Clicked" />
+                        </inputLayout:SfTextInputLayout.TrailingView>
+                        <Entry x:Name="PasswordEntry"
+                               IsPassword="True"
+                               Placeholder="Buat password" />
+                    </inputLayout:SfTextInputLayout>
+
+                    <!-- ===================== CONFIRM PASSWORD ===================== -->
+                    <inputLayout:SfTextInputLayout Hint="Konfirmasi Password"
+                                                ContainerType="Outlined"
+                                                LeadingViewPosition="Inside"
+                                                TrailingViewPosition="Inside"
+                                                InputViewPadding="8,0,0,0"
+                                                Margin="0,0,0,8">
+                        <inputLayout:SfTextInputLayout.LeadingView>
+                            <Label Text="&#xe897;"
+                                   FontFamily="MaterialIcons"
+                                   FontSize="18"
+                                   TextColor="#8A8FA3"
+                                   HeightRequest="20"
+                                   WidthRequest="20"
+                                   HorizontalTextAlignment="Center"
+                                   VerticalTextAlignment="Center"
+                                   VerticalOptions="Center"
+                                   Margin="8,0,0,0" />
+                        </inputLayout:SfTextInputLayout.LeadingView>
+                        <inputLayout:SfTextInputLayout.TrailingView>
+                            <ImageButton x:Name="ToggleConfirmPasswordButton"
+                                         Source="eye_icon.png"
+                                         BackgroundColor="Transparent"
+                                         Padding="10"
+                                         WidthRequest="24"
+                                         HeightRequest="24"
+                                         Margin="0,0,8,0"
+                                         Clicked="ToggleConfirmPasswordButton_Clicked" />
+                        </inputLayout:SfTextInputLayout.TrailingView>
+                        <Entry x:Name="ConfirmPasswordEntry"
+                               IsPassword="True"
+                               Placeholder="Ulangi password" />
+                    </inputLayout:SfTextInputLayout>
+
+                    <!-- Pesan error validasi (disembunyikan default) -->
+                    <Label x:Name="ErrorLabel"
+                           TextColor="#E5484D"
+                           FontSize="12"
+                           IsVisible="False"
+                           Margin="4,4,0,16" />
+
+                    <!-- ===================== BUTTON SUBMIT ===================== -->
+                    <buttons:SfButton x:Name="SubmitButton"
+                                      Text="DAFTAR"
+                                      CornerRadius="14"
+                                      HeightRequest="52"
+                                      Background="#5B67F1"
+                                      TextColor="White"
+                                      FontAttributes="Bold"
+                                      Margin="0,8,0,0"
+                                      Clicked="SubmitButton_Clicked" />
+
+                    <!-- ===================== DIVIDER ===================== -->
+                    <Grid ColumnDefinitions="*,Auto,*" Margin="0,24,0,20" VerticalOptions="Center">
+                        <BoxView Grid.Column="0" HeightRequest="1" Color="#E4E6F0" VerticalOptions="Center" />
+                        <Label Grid.Column="1" Text="atau" FontSize="12" TextColor="#8A8FA3" Margin="10,0" />
+                        <BoxView Grid.Column="2" HeightRequest="1" Color="#E4E6F0" VerticalOptions="Center" />
+                    </Grid>
+
+                    <!-- ===================== SUDAH PUNYA AKUN -> BACK TO LOGIN ===================== -->
+                    <buttons:SfButton x:Name="BackToLoginButton"
+                                      Text="SUDAH PUNYA AKUN? MASUK"
+                                      CornerRadius="14"
+                                      HeightRequest="48"
+                                      Background="Transparent"
+                                      TextColor="#5B67F1"
+                                      Stroke="#5B67F1"
+                                      StrokeThickness="1.5"
+                                      FontAttributes="Bold"
+                                      Clicked="BackToLogin_Tapped" />
+
+                </VerticalStackLayout>
+            </Border>
+        </Grid>
+    </ScrollView>
+</ContentPage>
