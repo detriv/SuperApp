@@ -1,0 +1,6022 @@
+{
+  "nodes": [
+    {
+      "id": "app",
+      "label": "App.xaml",
+      "file_type": "code",
+      "source_file": "App.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_application",
+      "label": "Application",
+      "file_type": "code",
+      "source_file": "App.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_xaml_superapp_app",
+      "label": "App",
+      "file_type": "code",
+      "source_file": "App.xaml.cs",
+      "source_location": "L5",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s54"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_xaml",
+      "label": "App.xaml.cs",
+      "file_type": "code",
+      "source_file": "App.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "csharp_namespace:aa0dcd47ec9c71bf",
+      "label": "SuperApp",
+      "file_type": "code",
+      "source_file": "App.xaml.cs",
+      "source_location": "L3",
+      "type": "namespace",
+      "metadata": {
+        "kind": "csharp_namespace",
+        "namespace": "SuperApp"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "app_xaml_superapp_app",
+      "label": "App",
+      "file_type": "code",
+      "source_file": "App.xaml.cs",
+      "source_location": "L5",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s54"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_xaml_superapp_app_createwindow",
+      "label": ".CreateWindow()",
+      "file_type": "code",
+      "source_file": "App.xaml.cs",
+      "source_location": "L12",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s54"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "iactivationstate",
+      "label": "IActivationState",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "window",
+      "label": "Window",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "appshell",
+      "label": "AppShell.xaml",
+      "file_type": "code",
+      "source_file": "AppShell.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "appshell_shell",
+      "label": "Shell",
+      "file_type": "code",
+      "source_file": "AppShell.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "appshell_xaml_superapp_appshell",
+      "label": "AppShell",
+      "file_type": "code",
+      "source_file": "AppShell.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s3"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "appshell_xaml",
+      "label": "AppShell.xaml.cs",
+      "file_type": "code",
+      "source_file": "AppShell.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "appshell_xaml_superapp_appshell",
+      "label": "AppShell",
+      "file_type": "code",
+      "source_file": "AppShell.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s3"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "helper_routepage",
+      "label": "RoutePage.cs",
+      "file_type": "code",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "csharp_namespace:ca2bafbcae76dd24",
+      "label": "SuperApp.Helper",
+      "file_type": "code",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L6",
+      "type": "namespace",
+      "metadata": {
+        "kind": "csharp_namespace",
+        "namespace": "SuperApp.Helper"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "helper_routepage_superapp_helper_routepage",
+      "label": "RoutePage",
+      "file_type": "code",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L8",
+      "metadata": {
+        "namespace": "SuperApp.Helper",
+        "scope_chain": [
+          "s103"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "dictionary",
+      "label": "Dictionary",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage",
+      "label": "MainPage.xaml",
+      "file_type": "code",
+      "source_file": "MainPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "MainPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_xaml_superapp_mainpage",
+      "label": "MainPage",
+      "file_type": "code",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L5",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s28"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_btnlogin",
+      "label": "btnLogin",
+      "file_type": "code",
+      "source_file": "MainPage.xaml",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_xaml_xaml_sfbutton",
+      "label": "SfButton",
+      "file_type": "concept",
+      "source_file": "MainPage.xaml",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_xaml_superapp_mainpage_btnlogin_clicked",
+      "label": ".btnLogin_Clicked()",
+      "file_type": "code",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L14",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s28"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_xaml",
+      "label": "MainPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_xaml_superapp_mainpage",
+      "label": "MainPage",
+      "file_type": "code",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L5",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s28"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "int",
+      "label": "int",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_xaml_superapp_mainpage_btnlogin_clicked",
+      "label": ".btnLogin_Clicked()",
+      "file_type": "code",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L14",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s28"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mainpage_xaml_cs_eventargs",
+      "label": "EventArgs",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiprogram",
+      "label": "MauiProgram.cs",
+      "file_type": "code",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiprogram_superapp_mauiprogram",
+      "label": "MauiProgram",
+      "file_type": "code",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L8",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s133"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiprogram_superapp_mauiprogram_createmauiapp",
+      "label": ".CreateMauiApp()",
+      "file_type": "code",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L10",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s133"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiprogram_cs_mauiapp",
+      "label": "MauiApp",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "models_banneritem",
+      "label": "BannerItem.cs",
+      "file_type": "code",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "csharp_namespace:bb575e58a0bcca28",
+      "label": "SuperApp.Models",
+      "file_type": "code",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L5",
+      "type": "namespace",
+      "metadata": {
+        "kind": "csharp_namespace",
+        "namespace": "SuperApp.Models"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "models_banneritem_superapp_models_banneritem",
+      "label": "BannerItem",
+      "file_type": "code",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L7",
+      "metadata": {
+        "namespace": "SuperApp.Models",
+        "scope_chain": [
+          "s75"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "models_banneritem_cs_color",
+      "label": "Color",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "models_menuitem",
+      "label": "MenuItem.cs",
+      "file_type": "code",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "models_menuitem_superapp_models_menuitem",
+      "label": "MenuItem",
+      "file_type": "code",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L7",
+      "metadata": {
+        "namespace": "SuperApp.Models",
+        "scope_chain": [
+          "s75"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "models_menuitem_cs_color",
+      "label": "Color",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_android_mainactivity",
+      "label": "MainActivity.cs",
+      "file_type": "code",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_android_mainactivity_superapp_mainactivity",
+      "label": "MainActivity",
+      "file_type": "code",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L7",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s71"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiappcompatactivity",
+      "label": "MauiAppCompatActivity",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_android_mainapplication",
+      "label": "MainApplication.cs",
+      "file_type": "code",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_android_mainapplication_superapp_mainapplication",
+      "label": "MainApplication",
+      "file_type": "code",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L6",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s49"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiapplication",
+      "label": "MauiApplication",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_android_mainapplication_superapp_mainapplication_createmauiapp",
+      "label": ".CreateMauiApp()",
+      "file_type": "code",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L14",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s49"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_android_mainapplication_cs_mauiapp",
+      "label": "MauiApp",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_maccatalyst_appdelegate",
+      "label": "AppDelegate.cs",
+      "file_type": "code",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_maccatalyst_appdelegate_superapp_appdelegate",
+      "label": "AppDelegate",
+      "file_type": "code",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L5",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s24"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiuiapplicationdelegate",
+      "label": "MauiUIApplicationDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_maccatalyst_appdelegate_superapp_appdelegate_createmauiapp",
+      "label": ".CreateMauiApp()",
+      "file_type": "code",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L8",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s24"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_maccatalyst_appdelegate_cs_mauiapp",
+      "label": "MauiApp",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_maccatalyst_program",
+      "label": "Program.cs",
+      "file_type": "code",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_maccatalyst_program_superapp_program",
+      "label": "Program",
+      "file_type": "code",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L6",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s39"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_maccatalyst_program_superapp_program_main",
+      "label": ".Main()",
+      "file_type": "code",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L9",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s39"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_windows_app",
+      "label": "App.xaml",
+      "file_type": "code",
+      "source_file": "Platforms/Windows/App.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_windows_app_mauiwinuiapplication",
+      "label": "MauiWinUIApplication",
+      "file_type": "code",
+      "source_file": "Platforms/Windows/App.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_windows_app_xaml_superapp_winui_app",
+      "label": "App",
+      "file_type": "code",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L11",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.WinUI",
+        "scope_chain": [
+          "s174"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_windows_app_xaml",
+      "label": "App.xaml.cs",
+      "file_type": "code",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "csharp_namespace:5723131931b6e7c7",
+      "label": "SuperApp.WinUI",
+      "file_type": "code",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L6",
+      "type": "namespace",
+      "metadata": {
+        "kind": "csharp_namespace",
+        "namespace": "SuperApp.WinUI"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_windows_app_xaml_superapp_winui_app",
+      "label": "App",
+      "file_type": "code",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L11",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.WinUI",
+        "scope_chain": [
+          "s174"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_windows_app_xaml_superapp_winui_app_createmauiapp",
+      "label": ".CreateMauiApp()",
+      "file_type": "code",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L22",
+      "metadata": {
+        "namespace": "SuperApp.WinUI",
+        "scope_chain": [
+          "s174"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_windows_app_xaml_cs_mauiapp",
+      "label": "MauiApp",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_ios_appdelegate",
+      "label": "AppDelegate.cs",
+      "file_type": "code",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_ios_appdelegate_superapp_appdelegate",
+      "label": "AppDelegate",
+      "file_type": "code",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L5",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s24"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "mauiuiapplicationdelegate",
+      "label": "MauiUIApplicationDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_ios_appdelegate_superapp_appdelegate_createmauiapp",
+      "label": ".CreateMauiApp()",
+      "file_type": "code",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L8",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s24"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_ios_appdelegate_cs_mauiapp",
+      "label": "MauiApp",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_ios_program",
+      "label": "Program.cs",
+      "file_type": "code",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_ios_program_superapp_program",
+      "label": "Program",
+      "file_type": "code",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L6",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s39"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "platforms_ios_program_superapp_program_main",
+      "label": ".Main()",
+      "file_type": "code",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L9",
+      "metadata": {
+        "namespace": "SuperApp",
+        "scope_chain": [
+          "s39"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_colors",
+      "label": "Colors.xaml",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Colors.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_colors_resourcedictionary",
+      "label": "ResourceDictionary",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Colors.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles",
+      "label": "Styles.xaml",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles_resourcedictionary",
+      "label": "ResourceDictionary",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles_commonstates",
+      "label": "CommonStates",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L37",
+      "_origin": "ast"
+    },
+    {
+      "id": "xaml_visualstategroup",
+      "label": "VisualStateGroup",
+      "file_type": "concept",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L37",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles_normal",
+      "label": "Normal",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "xaml_visualstate",
+      "label": "VisualState",
+      "file_type": "concept",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles_disabled",
+      "label": "Disabled",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L39",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles_pointerover",
+      "label": "PointerOver",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L45",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles_on",
+      "label": "On",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L330",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_styles_styles_off",
+      "label": "Off",
+      "file_type": "code",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L302",
+      "_origin": "ast"
+    },
+    {
+      "id": "services_navigator",
+      "label": "Navigator.cs",
+      "file_type": "code",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "csharp_namespace:3ca4884b0f428f83",
+      "label": "SuperApp.Services",
+      "file_type": "code",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L6",
+      "type": "namespace",
+      "metadata": {
+        "kind": "csharp_namespace",
+        "namespace": "SuperApp.Services"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "services_navigator_superapp_services_navigator",
+      "label": "Navigator",
+      "file_type": "code",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L8",
+      "metadata": {
+        "namespace": "SuperApp.Services",
+        "scope_chain": [
+          "s99"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "iserviceprovider",
+      "label": "IServiceProvider",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "services_navigator_superapp_services_navigator_gotoasync",
+      "label": ".GoToAsync()",
+      "file_type": "code",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L17",
+      "metadata": {
+        "namespace": "SuperApp.Services",
+        "scope_chain": [
+          "s99"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "task",
+      "label": "Task",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "superapp_csproj_superapp",
+      "label": "SuperApp.csproj",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "framework_net10_0_android",
+      "label": "net10.0-android",
+      "file_type": "concept",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "framework_targetframeworks",
+      "label": "$(TargetFrameworks)",
+      "file_type": "concept",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "framework_net10_0_ios",
+      "label": "net10.0-ios",
+      "file_type": "concept",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "framework_net10_0_maccatalyst",
+      "label": "net10.0-maccatalyst",
+      "file_type": "concept",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "framework_net10_0_windows10_0_19041_0",
+      "label": "net10.0-windows10.0.19041.0",
+      "file_type": "concept",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "nuget_microsoft_maui_controls",
+      "label": "Microsoft.Maui.Controls ($(MauiVersion))",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "nuget_microsoft_extensions_logging_debug",
+      "label": "Microsoft.Extensions.Logging.Debug (10.0.0)",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "nuget_syncfusion_maui_buttons",
+      "label": "Syncfusion.Maui.Buttons (34.2.2)",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "nuget_syncfusion_maui_carousel",
+      "label": "Syncfusion.Maui.Carousel (34.2.2)",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "nuget_syncfusion_maui_core",
+      "label": "Syncfusion.Maui.Core (34.2.2)",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "nuget_syncfusion_maui_inputs",
+      "label": "Syncfusion.Maui.Inputs (34.2.2)",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "nuget_syncfusion_maui_picker",
+      "label": "Syncfusion.Maui.Picker (34.2.2)",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "sdk_microsoft_net_sdk",
+      "label": "Microsoft.NET.Sdk",
+      "file_type": "concept",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "superapp_slnx_superapp",
+      "label": "SuperApp.slnx",
+      "file_type": "code",
+      "source_file": "SuperApp.slnx",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "superapp_csproj_superapp",
+      "label": "SuperApp",
+      "file_type": "code",
+      "source_file": "SuperApp.csproj",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage",
+      "label": "HomePage.xaml",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage_xaml_superapp_views_homepage",
+      "label": "HomePage",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L8",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s135"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage_bannercarousel",
+      "label": "BannerCarousel",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L76",
+      "_origin": "ast"
+    },
+    {
+      "id": "xaml_sfcarousel",
+      "label": "SfCarousel",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L76",
+      "_origin": "ast"
+    },
+    {
+      "id": "binding_banners",
+      "label": "Banners",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L78",
+      "_origin": "ast"
+    },
+    {
+      "id": "binding_backgroundcolor",
+      "label": "BackgroundColor",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L87",
+      "_origin": "ast"
+    },
+    {
+      "id": "binding_subtitle",
+      "label": "Subtitle",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L89",
+      "_origin": "ast"
+    },
+    {
+      "id": "binding_title",
+      "label": "Title",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L93",
+      "_origin": "ast"
+    },
+    {
+      "id": "binding_menus",
+      "label": "Menus",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L125",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage_xaml_superapp_views_homepage_menuitem_tapped",
+      "label": ".MenuItem_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L44",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s135"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "binding",
+      "label": ".",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L137",
+      "_origin": "ast"
+    },
+    {
+      "id": "binding_iconglyph",
+      "label": "IconGlyph",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L146",
+      "_origin": "ast"
+    },
+    {
+      "id": "binding_iconcolor",
+      "label": "IconColor",
+      "file_type": "concept",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L149",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage_xaml",
+      "label": "HomePage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "csharp_namespace:5fa8918099684016",
+      "label": "SuperApp.Views",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L6",
+      "type": "namespace",
+      "metadata": {
+        "kind": "csharp_namespace",
+        "namespace": "SuperApp.Views"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage_xaml_superapp_views_homepage",
+      "label": "HomePage",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L8",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s135"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "observablecollection",
+      "label": "ObservableCollection",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_homepage_xaml_superapp_views_homepage_menuitem_tapped",
+      "label": ".MenuItem_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L44",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s135"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "tappedeventargs",
+      "label": "TappedEventArgs",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage",
+      "label": "LoginPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage",
+      "label": "LoginPage",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_emailentry",
+      "label": "EmailEntry",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L84",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_xaml_entry",
+      "label": "Entry",
+      "file_type": "concept",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L84",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_togglepasswordbutton",
+      "label": "TogglePasswordButton",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L109",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_xaml_imagebutton",
+      "label": "ImageButton",
+      "file_type": "concept",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L109",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_togglepasswordbutton_clicked",
+      "label": ".TogglePasswordButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L11",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_passwordentry",
+      "label": "PasswordEntry",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L118",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_remembermeswitch",
+      "label": "RememberMeSwitch",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L126",
+      "_origin": "ast"
+    },
+    {
+      "id": "xaml_sfswitch",
+      "label": "SfSwitch",
+      "file_type": "concept",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L126",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_forgotpassword_tapped",
+      "label": ".ForgotPassword_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L40",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_loginbutton",
+      "label": "LoginButton",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L147",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_xaml_sfbutton",
+      "label": "SfButton",
+      "file_type": "concept",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L147",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_loginbutton_clicked",
+      "label": ".LoginButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L21",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_register_tapped",
+      "label": ".Register_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L48",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml",
+      "label": "LoginPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage",
+      "label": "LoginPage",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_cs_bool",
+      "label": "bool",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_togglepasswordbutton_clicked",
+      "label": ".TogglePasswordButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L11",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_cs_eventargs",
+      "label": "EventArgs",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_loginbutton_clicked",
+      "label": ".LoginButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L21",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_forgotpassword_tapped",
+      "label": ".ForgotPassword_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L40",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_loginpage_xaml_superapp_views_loginpage_register_tapped",
+      "label": ".Register_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L48",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_analyticspage",
+      "label": "AnalyticsPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/AnalyticsPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_analyticspage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/AnalyticsPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_analyticspage_xaml_superapp_views_menu_analyticspage",
+      "label": "AnalyticsPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/AnalyticsPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_analyticspage_xaml",
+      "label": "AnalyticsPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/AnalyticsPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "csharp_namespace:fc5b16f6dcd95362",
+      "label": "SuperApp.Views.Menu",
+      "file_type": "code",
+      "source_file": "Views/Menu/AnalyticsPage.xaml.cs",
+      "source_location": "L1",
+      "type": "namespace",
+      "metadata": {
+        "kind": "csharp_namespace",
+        "namespace": "SuperApp.Views.Menu"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_analyticspage_xaml_superapp_views_menu_analyticspage",
+      "label": "AnalyticsPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/AnalyticsPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_calendarpage",
+      "label": "CalendarPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/CalendarPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_calendarpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/CalendarPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_calendarpage_xaml_superapp_views_menu_calendarpage",
+      "label": "CalendarPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/CalendarPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_calendarpage_xaml",
+      "label": "CalendarPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/CalendarPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_calendarpage_xaml_superapp_views_menu_calendarpage",
+      "label": "CalendarPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/CalendarPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_chatpage",
+      "label": "ChatPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/ChatPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_chatpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ChatPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_chatpage_xaml_superapp_views_menu_chatpage",
+      "label": "ChatPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ChatPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_chatpage_xaml",
+      "label": "ChatPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/ChatPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_chatpage_xaml_superapp_views_menu_chatpage",
+      "label": "ChatPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ChatPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_clientpage",
+      "label": "ClientPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/ClientPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_clientpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ClientPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_clientpage_xaml_superapp_views_menu_clientpage",
+      "label": "ClientPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ClientPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_clientpage_xaml",
+      "label": "ClientPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/ClientPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_clientpage_xaml_superapp_views_menu_clientpage",
+      "label": "ClientPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ClientPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_dashboardpage",
+      "label": "DashboardPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/DashboardPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_dashboardpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/DashboardPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_dashboardpage_xaml_superapp_views_menu_dashboardpage",
+      "label": "DashboardPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/DashboardPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_dashboardpage_xaml",
+      "label": "DashboardPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/DashboardPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_dashboardpage_xaml_superapp_views_menu_dashboardpage",
+      "label": "DashboardPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/DashboardPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_helppage",
+      "label": "HelpPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/HelpPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_helppage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/HelpPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_helppage_xaml_superapp_views_menu_helppage",
+      "label": "HelpPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/HelpPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_helppage_xaml",
+      "label": "HelpPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/HelpPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_helppage_xaml_superapp_views_menu_helppage",
+      "label": "HelpPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/HelpPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_notepage",
+      "label": "NotePage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/NotePage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_notepage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/NotePage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_notepage_xaml_superapp_views_menu_notepage",
+      "label": "NotePage",
+      "file_type": "code",
+      "source_file": "Views/Menu/NotePage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_notepage_xaml",
+      "label": "NotePage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/NotePage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_notepage_xaml_superapp_views_menu_notepage",
+      "label": "NotePage",
+      "file_type": "code",
+      "source_file": "Views/Menu/NotePage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_reportpage",
+      "label": "ReportPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/ReportPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_reportpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ReportPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_reportpage_xaml_superapp_views_menu_reportpage",
+      "label": "ReportPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ReportPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_reportpage_xaml",
+      "label": "ReportPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/ReportPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_reportpage_xaml_superapp_views_menu_reportpage",
+      "label": "ReportPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/ReportPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_settingspage",
+      "label": "SettingsPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/SettingsPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_settingspage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/SettingsPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_settingspage_xaml_superapp_views_menu_settingspage",
+      "label": "SettingsPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/SettingsPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_settingspage_xaml",
+      "label": "SettingsPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/SettingsPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_settingspage_xaml_superapp_views_menu_settingspage",
+      "label": "SettingsPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/SettingsPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_taskpage",
+      "label": "TaskPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/Menu/TaskPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_taskpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/TaskPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_taskpage_xaml_superapp_views_menu_taskpage",
+      "label": "TaskPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/TaskPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_taskpage_xaml",
+      "label": "TaskPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/Menu/TaskPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_menu_taskpage_xaml_superapp_views_menu_taskpage",
+      "label": "TaskPage",
+      "file_type": "code",
+      "source_file": "Views/Menu/TaskPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views.Menu",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage",
+      "label": "RegisterPage.xaml",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage",
+      "label": "RegisterPage",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_emailentry",
+      "label": "EmailEntry",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L83",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_xaml_entry",
+      "label": "Entry",
+      "file_type": "concept",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L83",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_togglepasswordbutton",
+      "label": "TogglePasswordButton",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L108",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_xaml_imagebutton",
+      "label": "ImageButton",
+      "file_type": "concept",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L108",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_togglepasswordbutton_clicked",
+      "label": ".TogglePasswordButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L14",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_passwordentry",
+      "label": "PasswordEntry",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L117",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_toggleconfirmpasswordbutton",
+      "label": "ToggleConfirmPasswordButton",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L142",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_toggleconfirmpasswordbutton_clicked",
+      "label": ".ToggleConfirmPasswordButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L22",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_confirmpasswordentry",
+      "label": "ConfirmPasswordEntry",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L151",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_errorlabel",
+      "label": "ErrorLabel",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L157",
+      "_origin": "ast"
+    },
+    {
+      "id": "xaml_label",
+      "label": "Label",
+      "file_type": "concept",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L157",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_submitbutton",
+      "label": "SubmitButton",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L164",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_xaml_sfbutton",
+      "label": "SfButton",
+      "file_type": "concept",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L164",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "label": ".SubmitButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L30",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_backtologinbutton",
+      "label": "BackToLoginButton",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L182",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_backtologin_tapped",
+      "label": ".BackToLogin_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L73",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml",
+      "label": "RegisterPage.xaml.cs",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage",
+      "label": "RegisterPage",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L3",
+      "metadata": {
+        "is_partial": true,
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "contentpage",
+      "label": "ContentPage",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_cs_bool",
+      "label": "bool",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_togglepasswordbutton_clicked",
+      "label": ".TogglePasswordButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L14",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_cs_eventargs",
+      "label": "EventArgs",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_toggleconfirmpasswordbutton_clicked",
+      "label": ".ToggleConfirmPasswordButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L22",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "label": ".SubmitButton_Clicked()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L30",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_backtologin_tapped",
+      "label": ".BackToLogin_Tapped()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L73",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_showerror",
+      "label": ".ShowError()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L87",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_hideerror",
+      "label": ".HideError()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L93",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "views_registerpage_xaml_superapp_views_registerpage_isvalidemail",
+      "label": ".IsValidEmail()",
+      "file_type": "code",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L98",
+      "metadata": {
+        "namespace": "SuperApp.Views",
+        "scope_chain": [
+          "s0"
+        ]
+      },
+      "_callable": true,
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "app",
+      "target": "app_application",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_application",
+      "target": "app_xaml_superapp_app",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "app_xaml",
+      "target": "microsoft_extensions_dependencyinjection",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Microsoft.Extensions.DependencyInjection",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "app_xaml",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_xaml",
+      "target": "app_xaml_superapp_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_xaml_superapp_app",
+      "target": "app_application",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "Application"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "app_xaml_superapp_app",
+      "target": "app_xaml_superapp_app_createwindow",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml.cs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_xaml_superapp_app_createwindow",
+      "target": "iactivationstate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml.cs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "IActivationState"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "app_xaml_superapp_app_createwindow",
+      "target": "window",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "App.xaml.cs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "return_type",
+      "metadata": {
+        "ref_token": "Window"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "appshell",
+      "target": "appshell_shell",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AppShell.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "appshell_shell",
+      "target": "appshell_xaml_superapp_appshell",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AppShell.xaml",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "appshell_xaml",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AppShell.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "appshell_xaml",
+      "target": "appshell_xaml_superapp_appshell",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AppShell.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "appshell_xaml_superapp_appshell",
+      "target": "appshell_shell",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "AppShell.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "Shell"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "helper_routepage",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "SuperApp.Views.Menu",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "helper_routepage",
+      "target": "system",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "helper_routepage",
+      "target": "system_collections_generic",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Collections.Generic",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "helper_routepage",
+      "target": "system_text",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Text",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "helper_routepage",
+      "target": "csharp_namespace:ca2bafbcae76dd24",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "helper_routepage",
+      "target": "helper_routepage_superapp_helper_routepage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "helper_routepage_superapp_helper_routepage",
+      "target": "dictionary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Helper/RoutePage.cs",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "Dictionary"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage",
+      "target": "mainpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_contentpage",
+      "target": "mainpage_xaml_superapp_mainpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_contentpage",
+      "target": "mainpage_btnlogin",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_btnlogin",
+      "target": "mainpage_xaml_xaml_sfbutton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_btnlogin",
+      "target": "mainpage_xaml_superapp_mainpage_btnlogin_clicked",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml_superapp_mainpage",
+      "target": "mainpage_xaml_superapp_mainpage_btnlogin_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml",
+      "target": "csharp_namespace:5fa8918099684016",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "SuperApp.Views",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml",
+      "target": "mainpage_xaml_superapp_mainpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml_superapp_mainpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml_superapp_mainpage",
+      "target": "int",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "int"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml_superapp_mainpage",
+      "target": "mainpage_xaml_superapp_mainpage_btnlogin_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mainpage_xaml_superapp_mainpage_btnlogin_clicked",
+      "target": "mainpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "MainPage.xaml.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram",
+      "target": "microsoft_extensions_logging",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Microsoft.Extensions.Logging",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram",
+      "target": "csharp_namespace:3ca4884b0f428f83",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "SuperApp.Services",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "SuperApp.Views.Menu",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram",
+      "target": "syncfusion_maui_core_hosting",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Syncfusion.Maui.Core.Hosting",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram",
+      "target": "mauiprogram_superapp_mauiprogram",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram_superapp_mauiprogram",
+      "target": "mauiprogram_superapp_mauiprogram_createmauiapp",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "mauiprogram_superapp_mauiprogram_createmauiapp",
+      "target": "mauiprogram_cs_mauiapp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "MauiProgram.cs",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "return_type",
+      "metadata": {
+        "ref_token": "MauiApp"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_banneritem",
+      "target": "system",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_banneritem",
+      "target": "system_collections_generic",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Collections.Generic",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_banneritem",
+      "target": "system_text",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Text",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_banneritem",
+      "target": "csharp_namespace:bb575e58a0bcca28",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "models_banneritem",
+      "target": "models_banneritem_superapp_models_banneritem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "models_banneritem_superapp_models_banneritem",
+      "target": "models_banneritem_cs_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/BannerItem.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "Color"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_menuitem",
+      "target": "system",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_menuitem",
+      "target": "system_collections_generic",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Collections.Generic",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_menuitem",
+      "target": "system_text",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Text",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_menuitem",
+      "target": "csharp_namespace:bb575e58a0bcca28",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "models_menuitem",
+      "target": "models_menuitem_superapp_models_menuitem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "models_menuitem_superapp_models_menuitem",
+      "target": "models_menuitem_cs_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "Color"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "models_menuitem_superapp_models_menuitem",
+      "target": "models_menuitem_cs_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Models/MenuItem.cs",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "Color"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainactivity",
+      "target": "android_app",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Android.App",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainactivity",
+      "target": "android_content_pm",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Android.Content.PM",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainactivity",
+      "target": "android_os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Android.OS",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainactivity",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainactivity",
+      "target": "platforms_android_mainactivity_superapp_mainactivity",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainactivity_superapp_mainactivity",
+      "target": "mauiappcompatactivity",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainActivity.cs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "MauiAppCompatActivity"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication",
+      "target": "android_app",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Android.App",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication",
+      "target": "android_runtime",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Android.Runtime",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication",
+      "target": "platforms_android_mainapplication_superapp_mainapplication",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication_superapp_mainapplication",
+      "target": "mauiapplication",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "MauiApplication"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication_superapp_mainapplication",
+      "target": "platforms_android_mainapplication_superapp_mainapplication_createmauiapp",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication_superapp_mainapplication_createmauiapp",
+      "target": "platforms_android_mainapplication_cs_mauiapp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "return_type",
+      "metadata": {
+        "ref_token": "MauiApp"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_appdelegate",
+      "target": "foundation",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Foundation",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_appdelegate",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_appdelegate",
+      "target": "platforms_maccatalyst_appdelegate_superapp_appdelegate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_appdelegate_superapp_appdelegate",
+      "target": "mauiuiapplicationdelegate",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "MauiUIApplicationDelegate"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_appdelegate_superapp_appdelegate",
+      "target": "platforms_maccatalyst_appdelegate_superapp_appdelegate_createmauiapp",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_appdelegate_superapp_appdelegate_createmauiapp",
+      "target": "platforms_maccatalyst_appdelegate_cs_mauiapp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "return_type",
+      "metadata": {
+        "ref_token": "MauiApp"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_program",
+      "target": "objcruntime",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "ObjCRuntime",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_program",
+      "target": "uikit",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "UIKit",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_program",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_program",
+      "target": "platforms_maccatalyst_program_superapp_program",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_program_superapp_program",
+      "target": "platforms_maccatalyst_program_superapp_program_main",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/MacCatalyst/Program.cs",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app",
+      "target": "platforms_windows_app_mauiwinuiapplication",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_mauiwinuiapplication",
+      "target": "platforms_windows_app_xaml_superapp_winui_app",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml",
+      "source_location": "L2",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_xaml",
+      "target": "microsoft_ui_xaml",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Microsoft.UI.Xaml",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_xaml",
+      "target": "csharp_namespace:5723131931b6e7c7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_xaml",
+      "target": "platforms_windows_app_xaml_superapp_winui_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_xaml_superapp_winui_app",
+      "target": "platforms_windows_app_mauiwinuiapplication",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "MauiWinUIApplication"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_xaml_superapp_winui_app",
+      "target": "platforms_windows_app_xaml_superapp_winui_app_createmauiapp",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_xaml_superapp_winui_app_createmauiapp",
+      "target": "platforms_windows_app_xaml_cs_mauiapp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "return_type",
+      "metadata": {
+        "ref_token": "MauiApp"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_appdelegate",
+      "target": "foundation",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "Foundation",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_appdelegate",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_appdelegate",
+      "target": "platforms_ios_appdelegate_superapp_appdelegate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_appdelegate_superapp_appdelegate",
+      "target": "mauiuiapplicationdelegate",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "MauiUIApplicationDelegate"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_appdelegate_superapp_appdelegate",
+      "target": "platforms_ios_appdelegate_superapp_appdelegate_createmauiapp",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_appdelegate_superapp_appdelegate_createmauiapp",
+      "target": "platforms_ios_appdelegate_cs_mauiapp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "return_type",
+      "metadata": {
+        "ref_token": "MauiApp"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_program",
+      "target": "objcruntime",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "ObjCRuntime",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_program",
+      "target": "uikit",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "UIKit",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_program",
+      "target": "csharp_namespace:aa0dcd47ec9c71bf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_program",
+      "target": "platforms_ios_program_superapp_program",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_program_superapp_program",
+      "target": "platforms_ios_program_superapp_program_main",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Platforms/iOS/Program.cs",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_colors",
+      "target": "resources_styles_colors_resourcedictionary",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Colors.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles",
+      "target": "resources_styles_styles_resourcedictionary",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_resourcedictionary",
+      "target": "resources_styles_styles_commonstates",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_commonstates",
+      "target": "xaml_visualstategroup",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L37",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_resourcedictionary",
+      "target": "resources_styles_styles_normal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_normal",
+      "target": "xaml_visualstate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L38",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_resourcedictionary",
+      "target": "resources_styles_styles_disabled",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_disabled",
+      "target": "xaml_visualstate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L39",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_resourcedictionary",
+      "target": "resources_styles_styles_pointerover",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_pointerover",
+      "target": "xaml_visualstate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L45",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_resourcedictionary",
+      "target": "resources_styles_styles_on",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L330",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_on",
+      "target": "xaml_visualstate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L330",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_resourcedictionary",
+      "target": "resources_styles_styles_off",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L302",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_styles_styles_off",
+      "target": "xaml_visualstate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Resources/Styles/Styles.xaml",
+      "source_location": "L302",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator",
+      "target": "csharp_namespace:ca2bafbcae76dd24",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "SuperApp.Helper",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator",
+      "target": "system",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator",
+      "target": "system_collections_generic",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Collections.Generic",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator",
+      "target": "system_text",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Text",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator",
+      "target": "csharp_namespace:3ca4884b0f428f83",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator",
+      "target": "services_navigator_superapp_services_navigator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator_superapp_services_navigator",
+      "target": "iserviceprovider",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "IServiceProvider"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator_superapp_services_navigator",
+      "target": "services_navigator_superapp_services_navigator_gotoasync",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "services_navigator_superapp_services_navigator_gotoasync",
+      "target": "task",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Services/Navigator.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "return_type",
+      "metadata": {
+        "ref_token": "Task"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "framework_net10_0_android",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "framework_targetframeworks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "framework_net10_0_ios",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "framework_net10_0_maccatalyst",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "framework_net10_0_windows10_0_19041_0",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "nuget_microsoft_maui_controls",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "nuget_microsoft_extensions_logging_debug",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "nuget_syncfusion_maui_buttons",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "nuget_syncfusion_maui_carousel",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "nuget_syncfusion_maui_core",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "nuget_syncfusion_maui_inputs",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "nuget_syncfusion_maui_picker",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_csproj_superapp",
+      "target": "sdk_microsoft_net_sdk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.csproj",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "superapp_slnx_superapp",
+      "target": "superapp_slnx_superapp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "SuperApp.slnx",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage",
+      "target": "views_homepage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "views_homepage_xaml_superapp_views_homepage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "views_homepage_bannercarousel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L76",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_bannercarousel",
+      "target": "xaml_sfcarousel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L76",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_bannercarousel",
+      "target": "binding_banners",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L78",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding_backgroundcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L87",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding_subtitle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L89",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding_title",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L93",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding_banners",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L78",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding_menus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L125",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "views_homepage_xaml_superapp_views_homepage_menuitem_tapped",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L137",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage",
+      "target": "views_homepage_xaml_superapp_views_homepage_menuitem_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L137",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding_iconglyph",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L146",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_contentpage",
+      "target": "binding_iconcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml",
+      "source_location": "L149",
+      "weight": 1.0,
+      "context": "binding_path",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml",
+      "target": "csharp_namespace:bb575e58a0bcca28",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "SuperApp.Models",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml",
+      "target": "csharp_namespace:3ca4884b0f428f83",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "SuperApp.Services",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml",
+      "target": "system_collections_objectmodel",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "namespace",
+        "target_fqn": "System.Collections.ObjectModel",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml",
+      "target": "models_menuitem_superapp_models_menuitem",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "metadata": {
+        "using_kind": "alias",
+        "alias": "MenuItem",
+        "target_fqn": "SuperApp.Models.MenuItem",
+        "scope_kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml",
+      "target": "csharp_namespace:5fa8918099684016",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml",
+      "target": "views_homepage_xaml_superapp_views_homepage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage",
+      "target": "observablecollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "ObservableCollection"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage",
+      "target": "models_banneritem_superapp_models_banneritem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "metadata": {
+        "ref_token": "BannerItem"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage",
+      "target": "observablecollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "ObservableCollection"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage",
+      "target": "models_menuitem_superapp_models_menuitem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "metadata": {
+        "ref_token": "MenuItem"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage",
+      "target": "views_homepage_xaml_superapp_views_homepage_menuitem_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_homepage_xaml_superapp_views_homepage_menuitem_tapped",
+      "target": "tappedeventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/HomePage.xaml.cs",
+      "source_location": "L44",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "TappedEventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage",
+      "target": "views_loginpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_emailentry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L84",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_emailentry",
+      "target": "views_loginpage_xaml_xaml_entry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L84",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_togglepasswordbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L109",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_togglepasswordbutton",
+      "target": "views_loginpage_xaml_xaml_imagebutton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L109",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_togglepasswordbutton",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_togglepasswordbutton_clicked",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L116",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_togglepasswordbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_passwordentry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L118",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_passwordentry",
+      "target": "views_loginpage_xaml_xaml_entry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L118",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_remembermeswitch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L126",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_remembermeswitch",
+      "target": "xaml_sfswitch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L126",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_forgotpassword_tapped",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L141",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_forgotpassword_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_loginbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L147",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_loginbutton",
+      "target": "views_loginpage_xaml_xaml_sfbutton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L147",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_loginbutton",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_loginbutton_clicked",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L154",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_loginbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_contentpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_register_tapped",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml",
+      "source_location": "L171",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_register_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml",
+      "target": "csharp_namespace:5fa8918099684016",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml",
+      "target": "views_loginpage_xaml_superapp_views_loginpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_cs_bool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "bool"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_togglepasswordbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage_togglepasswordbutton_clicked",
+      "target": "views_loginpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_loginbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage_loginbutton_clicked",
+      "target": "views_loginpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_forgotpassword_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage_forgotpassword_tapped",
+      "target": "views_loginpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L40",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage",
+      "target": "views_loginpage_xaml_superapp_views_loginpage_register_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_loginpage_xaml_superapp_views_loginpage_register_tapped",
+      "target": "views_loginpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/LoginPage.xaml.cs",
+      "source_location": "L48",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_analyticspage",
+      "target": "views_menu_analyticspage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/AnalyticsPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_analyticspage_contentpage",
+      "target": "views_menu_analyticspage_xaml_superapp_views_menu_analyticspage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/AnalyticsPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_analyticspage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/AnalyticsPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_analyticspage_xaml",
+      "target": "views_menu_analyticspage_xaml_superapp_views_menu_analyticspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/AnalyticsPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_analyticspage_xaml_superapp_views_menu_analyticspage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/AnalyticsPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_calendarpage",
+      "target": "views_menu_calendarpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/CalendarPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_calendarpage_contentpage",
+      "target": "views_menu_calendarpage_xaml_superapp_views_menu_calendarpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/CalendarPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_calendarpage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/CalendarPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_calendarpage_xaml",
+      "target": "views_menu_calendarpage_xaml_superapp_views_menu_calendarpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/CalendarPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_calendarpage_xaml_superapp_views_menu_calendarpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/CalendarPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_chatpage",
+      "target": "views_menu_chatpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ChatPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_chatpage_contentpage",
+      "target": "views_menu_chatpage_xaml_superapp_views_menu_chatpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ChatPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_chatpage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ChatPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_chatpage_xaml",
+      "target": "views_menu_chatpage_xaml_superapp_views_menu_chatpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ChatPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_chatpage_xaml_superapp_views_menu_chatpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ChatPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_clientpage",
+      "target": "views_menu_clientpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ClientPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_clientpage_contentpage",
+      "target": "views_menu_clientpage_xaml_superapp_views_menu_clientpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ClientPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_clientpage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ClientPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_clientpage_xaml",
+      "target": "views_menu_clientpage_xaml_superapp_views_menu_clientpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ClientPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_clientpage_xaml_superapp_views_menu_clientpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ClientPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_dashboardpage",
+      "target": "views_menu_dashboardpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/DashboardPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_dashboardpage_contentpage",
+      "target": "views_menu_dashboardpage_xaml_superapp_views_menu_dashboardpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/DashboardPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_dashboardpage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/DashboardPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_dashboardpage_xaml",
+      "target": "views_menu_dashboardpage_xaml_superapp_views_menu_dashboardpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/DashboardPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_dashboardpage_xaml_superapp_views_menu_dashboardpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/DashboardPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_helppage",
+      "target": "views_menu_helppage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/HelpPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_helppage_contentpage",
+      "target": "views_menu_helppage_xaml_superapp_views_menu_helppage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/HelpPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_helppage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/HelpPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_helppage_xaml",
+      "target": "views_menu_helppage_xaml_superapp_views_menu_helppage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/HelpPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_helppage_xaml_superapp_views_menu_helppage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/HelpPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_notepage",
+      "target": "views_menu_notepage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/NotePage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_notepage_contentpage",
+      "target": "views_menu_notepage_xaml_superapp_views_menu_notepage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/NotePage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_notepage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/NotePage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_notepage_xaml",
+      "target": "views_menu_notepage_xaml_superapp_views_menu_notepage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/NotePage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_notepage_xaml_superapp_views_menu_notepage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/NotePage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_reportpage",
+      "target": "views_menu_reportpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ReportPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_reportpage_contentpage",
+      "target": "views_menu_reportpage_xaml_superapp_views_menu_reportpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ReportPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_reportpage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ReportPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_reportpage_xaml",
+      "target": "views_menu_reportpage_xaml_superapp_views_menu_reportpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ReportPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_reportpage_xaml_superapp_views_menu_reportpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/ReportPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_settingspage",
+      "target": "views_menu_settingspage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/SettingsPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_settingspage_contentpage",
+      "target": "views_menu_settingspage_xaml_superapp_views_menu_settingspage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/SettingsPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_settingspage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/SettingsPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_settingspage_xaml",
+      "target": "views_menu_settingspage_xaml_superapp_views_menu_settingspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/SettingsPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_settingspage_xaml_superapp_views_menu_settingspage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/SettingsPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_taskpage",
+      "target": "views_menu_taskpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/TaskPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_taskpage_contentpage",
+      "target": "views_menu_taskpage_xaml_superapp_views_menu_taskpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/TaskPage.xaml",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_taskpage_xaml",
+      "target": "csharp_namespace:fc5b16f6dcd95362",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/TaskPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_taskpage_xaml",
+      "target": "views_menu_taskpage_xaml_superapp_views_menu_taskpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/TaskPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_menu_taskpage_xaml_superapp_views_menu_taskpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/Menu/TaskPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage",
+      "target": "views_registerpage_contentpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "x_class",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_emailentry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L83",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_emailentry",
+      "target": "views_registerpage_xaml_xaml_entry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L83",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_togglepasswordbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_togglepasswordbutton",
+      "target": "views_registerpage_xaml_xaml_imagebutton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L108",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_togglepasswordbutton",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_togglepasswordbutton_clicked",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L115",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_togglepasswordbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_passwordentry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L117",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_passwordentry",
+      "target": "views_registerpage_xaml_xaml_entry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L117",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_toggleconfirmpasswordbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L142",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_toggleconfirmpasswordbutton",
+      "target": "views_registerpage_xaml_xaml_imagebutton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L142",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_toggleconfirmpasswordbutton",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_toggleconfirmpasswordbutton_clicked",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L149",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_toggleconfirmpasswordbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_confirmpasswordentry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L151",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_confirmpasswordentry",
+      "target": "views_registerpage_xaml_xaml_entry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L151",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_errorlabel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L157",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_errorlabel",
+      "target": "xaml_label",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L157",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_submitbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L164",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_submitbutton",
+      "target": "views_registerpage_xaml_xaml_sfbutton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L164",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_submitbutton",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L172",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_contentpage",
+      "target": "views_registerpage_backtologinbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L182",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_backtologinbutton",
+      "target": "views_registerpage_xaml_xaml_sfbutton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L182",
+      "weight": 1.0,
+      "context": "type",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_backtologinbutton",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_backtologin_tapped",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml",
+      "source_location": "L191",
+      "weight": 1.0,
+      "context": "event",
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_backtologin_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L73",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml",
+      "target": "csharp_namespace:5fa8918099684016",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml",
+      "target": "views_registerpage_xaml_superapp_views_registerpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "contentpage",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "metadata": {
+        "ref_token": "ContentPage"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_cs_bool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "bool"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_cs_bool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "field",
+      "metadata": {
+        "ref_token": "bool"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_togglepasswordbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage_togglepasswordbutton_clicked",
+      "target": "views_registerpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_toggleconfirmpasswordbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage_toggleconfirmpasswordbutton_clicked",
+      "target": "views_registerpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "target": "views_registerpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_backtologin_tapped",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L73",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage_backtologin_tapped",
+      "target": "views_registerpage_xaml_cs_eventargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L73",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "metadata": {
+        "ref_token": "EventArgs"
+      },
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_showerror",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L87",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_hideerror",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L93",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_isvalidemail",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L98",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_showerror",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_isvalidemail",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "views_registerpage_xaml_superapp_views_registerpage_submitbutton_clicked",
+      "target": "views_registerpage_xaml_superapp_views_registerpage_hideerror",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Views/RegisterPage.xaml.cs",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_android_mainapplication_superapp_mainapplication_createmauiapp",
+      "target": "mauiprogram_superapp_mauiprogram_createmauiapp",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Platforms/Android/MainApplication.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_maccatalyst_appdelegate_superapp_appdelegate_createmauiapp",
+      "target": "mauiprogram_superapp_mauiprogram_createmauiapp",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Platforms/MacCatalyst/AppDelegate.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_windows_app_xaml_superapp_winui_app_createmauiapp",
+      "target": "mauiprogram_superapp_mauiprogram_createmauiapp",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Platforms/Windows/App.xaml.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "platforms_ios_appdelegate_superapp_appdelegate_createmauiapp",
+      "target": "mauiprogram_superapp_mauiprogram_createmauiapp",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Platforms/iOS/AppDelegate.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "failed_sources": [
+    "C:\\Users\\mss\\source\\repos\\detriv\\SuperApp\\Properties\\launchSettings.json"
+  ]
+}

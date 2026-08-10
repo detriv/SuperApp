@@ -2,11 +2,104 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SuperApp.Views.Menu.HelpPage"
-             Title="HelpPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="Bantuan">
+    <ContentPage.Resources>
+        <Style TargetType="Border" x:Key="CardFrameStyle">
+            <Setter Property="StrokeShape" Value="RoundRectangle 10" />
+            <Setter Property="Stroke" Value="#E0E0E0" />
+            <Setter Property="BackgroundColor" Value="White" />
+            <Setter Property="Padding" Value="15" />
+            <!-- Note: HasShadow is not a direct property of Border, you might need a different approach for shadows -->
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="TextColor" Value="#333333" />
+        </Style>
+    </ContentPage.Resources>
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <!-- Bagian: Selamat Datang -->
+            <Border Style="{StaticResource CardFrameStyle}">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Selamat Datang di SuperApp!"
+                           FontSize="Title"
+                           FontAttributes="Bold" />
+                    <Label Text="Aplikasi ini dirancang untuk membantu Anda mengelola berbagai aspek kehidupan digital Anda. Temukan panduan di bawah untuk memulai."
+                           FontSize="Body" />
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Bagian: Memulai -->
+            <Border Style="{StaticResource CardFrameStyle}">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Memulai"
+                           FontSize="Title"
+                           FontAttributes="Bold" />
+                    <Label Text="Untuk memulai, Anda perlu mendaftar atau masuk menggunakan akun yang sudah ada. "
+                           FontSize="Body" />
+                    <VerticalStackLayout Spacing="5" Margin="0,5,0,0">
+                        <Label Text="1. Pendaftaran Akun:" FontAttributes="Bold" />
+                        <Label Text="- Klik 'Daftar' di halaman utama." />
+                        <Label Text="- Isi email, kata sandi, dan konfirmasi kata sandi." />
+                        <Label Text="- Pastikan kata sandi minimal 6 karakter dan cocok dengan konfirmasi." />
+                        <Label Text="- Klik 'Daftar' untuk menyelesaikan." />
+                    </VerticalStackLayout>
+                    <VerticalStackLayout Spacing="5" Margin="0,5,0,0">
+                        <Label Text="2. Masuk ke Akun Anda:" FontAttributes="Bold" />
+                        <Label Text="- Di halaman utama, masukkan email dan kata sandi Anda." />
+                        <Label Text="- Centang 'Ingat Saya' jika Anda ingin tetap masuk." />
+                        <Label Text="- Klik 'Masuk' untuk mengakses dashboard." />
+                    </VerticalStackLayout>
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Bagian: Navigasi Aplikasi -->
+            <Border Style="{StaticResource CardFrameStyle}">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Navigasi Aplikasi"
+                           FontSize="Title"
+                           FontAttributes="Bold" />
+                    <Label Text="Aplikasi ini memiliki beberapa modul utama yang dapat diakses dari halaman beranda (Dashboard)."
+                           FontSize="Body" />
+                    <Label Text="Modul yang Tersedia:" FontAttributes="Bold" Margin="0,5,0,0"/>
+                    <Label Text="- Dashboard: Ringkasan aktivitas Anda." />
+                    <Label Text="- Analitik: Laporan dan data performa." />
+                    <Label Text="- Kalender: Jadwal dan acara penting." />
+                    <Label Text="- Chat: Fitur komunikasi internal." />
+                    <Label Text="- Klien: Manajemen data klien." />
+                    <Label Text="- Catatan: Untuk mencatat ide atau informasi penting." />
+                    <Label Text="- Laporan: Pembuatan laporan kustom." />
+                    <Label Text="- Pengaturan: Untuk mengelola preferensi aplikasi dan profil Anda." />
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Bagian: Bantuan Teknis dan Kontak -->
+            <Border Style="{StaticResource CardFrameStyle}">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Bantuan Teknis"
+                           FontSize="Title"
+                           FontAttributes="Bold" />
+                    <Label Text="Jika Anda mengalami masalah atau memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi tim dukungan kami."
+                           FontSize="Body" />
+                    <VerticalStackLayout Spacing="5" Margin="0,5,0,0">
+                        <Label Text="Email: support@superapp.com" />
+                        <Label Text="Telepon: +62 812-3456-7890" />
+                    </VerticalStackLayout>
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Bagian: Tentang Aplikasi -->
+            <Border Style="{StaticResource CardFrameStyle}">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Tentang Aplikasi"
+                           FontSize="Title"
+                           FontAttributes="Bold" />
+                    <Label Text="SuperApp dikembangkan dengan &#x2764;&#xfe0f; menggunakan .NET MAUI."
+                           FontSize="Body" />
+                    <Label Text="Versi: 1.0.0" />
+                </VerticalStackLayout>
+            </Border>
+
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>
